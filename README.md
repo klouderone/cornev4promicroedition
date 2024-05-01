@@ -4,3 +4,5 @@ As the Corne V4 has a completely new board outline compared to the V3 and V2, al
 This PCB also adds wireless support with the inclusion of battery pads and a battery switch, as well as a removable 6th column, as well as **MX and Choc** switch support. 
 Unfortunately for this to be possible the additional encoder/switch pads in the Corne V4 needed to be removed to make room for this footprint.
 This gives the option to make your Corne wireless with a Nice!Nano V2, swap out microcontrollers if you're upgrading, and ultimately save costs. 
+
+Firmware will be coming soon.
