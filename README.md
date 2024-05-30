@@ -1,9 +1,14 @@
 # Corne V4 Pro-Micro Edition
 
-As the Corne V4 has a completely new board outline compared to the V3 and V2, all further development for the Corne will be using a new outline, this version brings back the Pro Micro footprint.
-This PCB also adds wireless support with the inclusion of battery pads and a battery switch, as well as a removable 6th column, as well as **MX and Choc** switch support. 
-Unfortunately for this to be possible the additional encoder/switch pads in the Corne V4 needed to be removed to make room for this footprint.
-This gives the option to make your Corne wireless with a Nice!Nano V2, swap out microcontrollers if you're upgrading, and ultimately save costs. 
+This version of the Corne V4 is beginner friendly, and brings back the option to make your Corne with whatever microcontroller you want, which allows wireless support with a Nice!Nano V2, and ultimately save costs when ordering as you DO NOT need PCBA.
+
+The Corne V4 has a completely new board outline compared to the V3 and V2, and all further development for the Corne will be using the V4 outline. This version brings back the Pro Micro footprint so all future cases and development is compatible with a Pro-Micro version PCB.
+
+- Pro Micro Support
+- MX Spaced
+- Hotswap MX and Choc Support
+- Breakaway 6th column for 5 column builds
+- Wired and Wireless Support with the inclusion of battery pads and battery switch
 
 Original Board designed by Foostan, modified By Kea Workshop.
 
