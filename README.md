@@ -7,4 +7,6 @@ This gives the option to make your Corne wireless with a Nice!Nano V2, swap out 
 
 ![image](https://github.com/klouderone/cornev4promicroedition/assets/136342173/598f3457-b834-483d-8778-85fb771b5296)
 
-Firmware will be coming soon.
+## Firmware 
+
+No external firmware is needed, the same firmware found on the VIAL and QMK repos will work for this PCB.
