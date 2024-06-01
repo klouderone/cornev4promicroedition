@@ -21,4 +21,4 @@ https://github.com/foostan/crkbd
 
 ## Firmware 
 
-No external firmware is needed, the same firmware found on the VIAL and QMK repos will work for this PCB.
+No external firmware is needed, the same firmware found on the VIAL and QMK repos for the Corne V2 will work for this PCB.
