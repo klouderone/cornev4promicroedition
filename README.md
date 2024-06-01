@@ -14,6 +14,8 @@ Original Board designed by Foostan, modified By Kea Workshop.
 
 https://github.com/foostan/crkbd
 
+![IMG_8871](https://github.com/klouderone/cornev4promicroedition/assets/136342173/901fa39f-69d9-44fd-b6e3-768a6a8b402c)
+
 ![image](https://github.com/klouderone/cornev4promicroedition/assets/136342173/598f3457-b834-483d-8778-85fb771b5296)
 
 ## Firmware 
