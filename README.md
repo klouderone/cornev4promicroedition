@@ -13,6 +13,8 @@ The Corne V4 has a completely new board outline compared to the V3 and V2, and a
 
 Original Board designed by Foostan, modified By Kea Workshop.
 
+Buy a Kit here https://www.keaworkshop.com/product/corne-v4-pro-micro-edition
+
 https://github.com/foostan/crkbd
 
 ![IMG_8871](https://github.com/klouderone/cornev4promicroedition/assets/136342173/901fa39f-69d9-44fd-b6e3-768a6a8b402c)
