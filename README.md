@@ -21,6 +21,35 @@ https://github.com/foostan/crkbd
 
 ![image](https://github.com/klouderone/cornev4promicroedition/assets/136342173/598f3457-b834-483d-8778-85fb771b5296)
 
+## Build Guide
+
+**Required Parts**
+
+- 42x Kailh Choc Hot Swap Sockets
+- 42x Kailh MX Hot Swap Sockets
+- 2x TRRS 3.5mm PJ-320A Audio Jack
+- 50x 1N4148 SOD-123 Diodes (extra for mistakes)
+- 2x 3 Pin Toggle Switch (MSK-12C02 & PCM12SMTR)
+- 2x Tactile Push Button Switch (3x6x4.3mm)
+- 4x Mill-Max Machined 12 Pin Sockets
+- 48x Mill-Max Machine Pins
+- 2x PH5 4 Pin Female Box Pin Header (for OLED)
+- 2x Microcontrollers (Pro Micro, Elite-C or Similar OR Nice!Nano V2)
+- 2x Displays (.91 Inch OLED or Nice!View) (optional)
+- 42x MX or Choc Switches
+- 42x MX or Choc Keycaps
+- 1x TRRS Male to Male Cable (if using non-wireless microcontroller)
+- 2x Battery (if using a wireless microcontroller like the Nice!Nano V2) 
+
+The build guide is **similar** to the video linked below, except without the LEDs, and the addition of the battery pads and battery switch.
+
+Make sure you are confident will all steps before commencing build as a mistake could result in breaking your microcontroller.
+
+https://www.youtube.com/watch?v=vzDTdLaAzXc
+
+
+
 ## Firmware 
 
 No external firmware is needed, the same firmware found on the VIAL and QMK repos for the Corne V2 will work for this PCB.
+
