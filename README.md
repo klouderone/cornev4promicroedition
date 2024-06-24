@@ -9,7 +9,7 @@ The Corne V4 has a completely new board outline compared to the V3 and V2, and a
 - MX Spaced
 - Hotswap MX and Choc Support
 - Breakaway 6th column for 5 column builds
-- OLED support
+- OLED and Nice!View support
 
 Original Board designed by Foostan, modified By Kea Workshop.
 
