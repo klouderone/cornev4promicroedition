@@ -27,7 +27,7 @@ https://github.com/foostan/crkbd
 
 **Required Parts**
 
-- 42x Kailh Choc Hot Swap Sockets
+- 42x Kailh Choc V1 Hot Swap Sockets
 - 42x Kailh MX Hot Swap Sockets
 - 2x TRRS 3.5mm PJ-320A Audio Jack
 - 50x 1N4148 SOD-123 Diodes (extra for mistakes)
@@ -38,8 +38,8 @@ https://github.com/foostan/crkbd
 - 2x PH5 4 Pin Female Box Pin Header (for OLED)
 - 2x Microcontrollers (Pro Micro, Elite-C or Similar OR Nice!Nano V2)
 - 2x Displays (.91 Inch OLED or Nice!View) (optional)
-- 42x MX or Choc Switches
-- 42x MX or Choc Keycaps
+- 42x MX or Choc V1 Switches
+- 42x MX or Choc V1 Keycaps
 - 1x TRRS Male to Male Cable (if using non-wireless microcontroller)
 - 2x Battery (if using a wireless microcontroller like the Nice!Nano V2) 
 
