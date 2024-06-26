@@ -7,7 +7,7 @@ The Corne V4 has a completely new board outline compared to the V3 and V2, and a
 - **Wired and Wireless** Support with the inclusion of battery pads and battery switch
 - Pro Micro Footprint Daughter Board Support
 - MX Spaced
-- Hotswap MX and Choc V1 Support
+- Hotswap **MX and Choc V1** Support
 - Breakaway 6th column for 5 column builds
 - OLED and Nice!View support
 
@@ -50,6 +50,10 @@ Make sure you are confident will all steps before commencing build as a mistake 
 https://www.youtube.com/watch?v=vzDTdLaAzXc
 
 ## Cases
+
+NOTE: The tenting cases HAVE NOT been tested yet, though it all works in CAD.
+
+The tenting cases use M6 bolts, with nuts to tent. 4x Bolts of any length, and 8x nuts are required. I have not determined a solution for silicone feet yet, though some sort of putty, or a 3D printed nut on the feet section of the bolt could be used to add feet onto.
 
 Due to the new outline of the corne v4, unfortunately all previous cases are incompatible with the new outline. 
 
