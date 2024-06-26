@@ -7,7 +7,7 @@ The Corne V4 has a completely new board outline compared to the V3 and V2, and a
 - **Wired and Wireless** Support with the inclusion of battery pads and battery switch
 - Pro Micro Footprint Daughter Board Support
 - MX Spaced
-- Hotswap MX and Choc Support
+- Hotswap MX and Choc V1 Support
 - Breakaway 6th column for 5 column builds
 - OLED and Nice!View support
 
