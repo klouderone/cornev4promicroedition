@@ -59,6 +59,8 @@ Due to the new outline of the corne v4, unfortunately all previous cases are inc
 
 In the cases directory, there are options for a fully enclosed case (pictured), or just a bottom plate with open sides. Note that due to the placement of the pro micro and TRRS jack, the cases for the v4 on foostans repository are incompatible with this version of the corne v4, as the usb and TRRS jack are blocked by the case as they are specifically placed holes.  
 
+The enclosed case with folding tenting leg pockets use the following folding legs. https://www.keaworkshop.com/category/components/product/case-tenting-legs
+
 ![image](https://github.com/klouderone/cornev4promicroedition/assets/136342173/bd4037fd-9137-4579-877b-2309add871db)
 Foostan case above, pro micro edition below.
 
