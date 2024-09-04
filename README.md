@@ -51,6 +51,8 @@ https://www.youtube.com/watch?v=vzDTdLaAzXc
 
 ## Cases
 
+The enclosed case uses 7mm M2 standoffs, and 5mm M2 screws.
+
 NOTE: The tenting cases HAVE NOT been tested yet, though it all works in CAD.
 
 The tenting cases use M6 bolts, with nuts to tent. 4x Bolts of any length, and 8x nuts are required. I have not determined a solution for silicone feet yet, though some sort of putty, or a 3D printed nut on the feet section of the bolt could be used to add feet onto.
