@@ -1,4 +1,4 @@
-25111433652047409
+25113160830294140
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6489,11 +6489,18 @@ SK12D07VG4
 5
 5
 ClaudeFoot
-SMD SOD123
+SMD SOD123 and Leaded
 Resitance 3 pas
 R
 0
 4
+2
+ClaudeFoot
+SMD_SOD123
+Resitance 3 pas
+R
+0
+2
 2
 ClaudeFoot
 SW_MXchocGLP_HS_1u
