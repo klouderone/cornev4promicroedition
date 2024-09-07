@@ -10,6 +10,7 @@ The Corne V4 has a completely new board outline compared to the V3 and V2, and a
 - Hotswap **MX and Choc V1** Support
 - Breakaway 6th column for 5 column builds
 - OLED and Nice!View support
+- Waffle Pattern PCB
 
 Original Board designed by Foostan, modified By Kea Workshop.
 
