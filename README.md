@@ -12,6 +12,8 @@ The Corne V4 has a completely new board outline compared to the V3 and V2, and a
 - OLED and Nice!View support
 - Waffle Pattern PCB
 
+NOTE: Like all Split Keyboards, NEVER unplug the TRRS interconnect cable while your boards are connected to your computer. 
+
 Original Board designed by Foostan, modified By Kea Workshop.
 
 Buy a Kit here https://www.keaworkshop.com/product/corne-v4-pro-micro-edition
