@@ -54,15 +54,14 @@ https://www.youtube.com/watch?v=vzDTdLaAzXc
 
 ## Cases
 
-The enclosed case uses 7mm M2 standoffs, and 5mm M2 screws.
+The enclosed case uses 7mm M2 standoffs. 
 
-NOTE: The tenting cases HAVE NOT been tested yet, though it all works in CAD.
+Ordering/Printing: Each Case has its own folder, and all parts needed for each case are located in that folder. 
 
-The tenting cases use M6 bolts, with nuts to tent. 4x Bolts of any length, and 8x nuts are required. I have not determined a solution for silicone feet yet, though some sort of putty, or a 3D printed nut on the feet section of the bolt could be used to add feet onto.
+Due to the new outline of the corne V4, unfortunately all previous cases are incompatible.
 
-Due to the new outline of the corne v4, unfortunately all previous cases are incompatible with the new outline. 
-
-In the cases directory, there are options for a fully enclosed case (pictured), or just a bottom plate with open sides. Note that due to the placement of the pro micro and TRRS jack, the cases for the v4 on foostans repository are incompatible with this version of the corne v4, as the usb and TRRS jack are blocked by the case as they are specifically placed holes.  
+In the cases directory, there are options for a fully enclosed case (pictured), or just a bottom plate with open sides. 
+Note that due to the placement of the pro micro and TRRS jack, the cases for the v4 on foostans repository are incompatible with this version of the corne v4, as the usb and TRRS jack are blocked by the case as they are specifically placed holes.  
 
 The enclosed case with folding tenting leg pockets use the following folding legs. https://www.keaworkshop.com/category/components/product/case-tenting-legs
 
