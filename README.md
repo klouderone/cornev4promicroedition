@@ -68,6 +68,8 @@ The enclosed case with folding tenting leg pockets use the following folding leg
 ![image](https://github.com/klouderone/cornev4promicroedition/assets/136342173/bd4037fd-9137-4579-877b-2309add871db)
 Foostan case above, pro micro edition below.
 
+**NOTE**: The Bolt tenting cases are UNTESTED. I personally have not used them as I use the enclosed folding tenting feet. Use at your own risk. 
+
 ## Firmware 
 
 No external firmware is needed, the same firmware found on the VIAL and QMK repos for the Corne V2 will work for this PCB.
