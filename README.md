@@ -61,14 +61,17 @@ Ordering/Printing: Each Case has its own folder, and all parts needed for each c
 Due to the new outline of the corne V4, unfortunately all previous cases are incompatible.
 
 In the cases directory, there are options for a fully enclosed case (pictured), or just a bottom plate with open sides. 
-Note that due to the placement of the pro micro and TRRS jack, the cases for the v4 on foostans repository are incompatible with this version of the corne v4, as the usb and TRRS jack are blocked by the case as they are specifically placed holes.  
+
+Note that due to the placement of the pro micro and TRRS jack, the cases for the v4 on foostans repository are incompatible with this version of the corne v4, as the usb and TRRS jack are blocked by the case as they are specifically placed holes. 
+
+The pro micro edition cases were designed to be as minimalist as possible, so they do have thin parts. This may cause a problem when ordering through JLC, as they have a minimum reccommended thickness of around 1.25mm. I have never had a problem printing all the files myself. 
 
 The enclosed case with folding tenting leg pockets use the following folding legs. https://www.keaworkshop.com/category/components/product/case-tenting-legs
 
 ![image](https://github.com/klouderone/cornev4promicroedition/assets/136342173/bd4037fd-9137-4579-877b-2309add871db)
 Foostan case above, pro micro edition below.
 
-**NOTE**: The Bolt tenting cases are UNTESTED. I personally have not used them as I use the enclosed folding tenting feet. Use at your own risk. 
+**NOTE**: The Bolt tenting cases are UNTESTED. I personally have not used them, or will never use them, as I use the enclosed folding tenting feet. Use at your own risk. 
 
 ## Firmware 
 
