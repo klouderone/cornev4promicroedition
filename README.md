@@ -56,7 +56,7 @@ I do plan on making a video on how to build this specific board.
 
 ## Cases
 
-The enclosed case uses 7mm M2 standoffs. 
+The enclosed case uses 7mm M2 standoffs, for both the PCB and the oled covers. 
 
 Ordering/Printing: Each Case has its own folder, and all parts needed for each case are located in that folder. 
 
