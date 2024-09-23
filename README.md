@@ -4,7 +4,7 @@ This version of the Corne V4 is beginner friendly, and brings back the option to
 
 The Corne V4 has a completely new board outline compared to the V3 and V2, and all further development for the Corne will be using the V4 outline. This version brings back the Pro Micro footprint so all future cases and development is compatible with a Pro-Micro version PCB.
 
-I designed this board for myself to use, and decided to put it on github, so I apologise if everything is not fully organised/explained/complete.
+I designed this board for myself to use, and decided to put it on github, so I apologise if this repository is not fully organised/explained/complete.
 
 - **Wired and Wireless** Support with the inclusion of battery pads and battery switch
 - Pro Micro Footprint Daughter Board Support
