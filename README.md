@@ -52,6 +52,8 @@ Make sure you are confident will all steps before commencing build as a mistake 
 
 https://www.youtube.com/watch?v=vzDTdLaAzXc
 
+I do plan on making a video on how to build this specific board.
+
 ## Cases
 
 The enclosed case uses 7mm M2 standoffs. 
