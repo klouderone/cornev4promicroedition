@@ -50,6 +50,8 @@ https://github.com/foostan/crkbd
 
 The build guide is **similar** to the video linked below, except without the LEDs, and the addition of the battery pads and battery switch.
 
+The batteries are intended to be directly soldered to the board, however you can use a PH2 connector on extension leads and route it to the TRRS socket area if you would like to use a battery with a connector.
+
 Make sure you are confident will all steps before commencing build as a mistake could result in breaking your microcontroller.
 
 https://www.youtube.com/watch?v=vzDTdLaAzXc
