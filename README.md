@@ -4,7 +4,7 @@ This version of the Corne V4 is beginner friendly, and brings back the option to
 
 The Corne V4 has a completely new board outline compared to the V3 and V2, and all further development for the Corne will be using the V4 outline. This version brings back the Pro Micro footprint so all future cases and development is compatible with a Pro-Micro version PCB.
 
-I designed this board for myself to use, and decided to put it on github, so I apologise if this repository is not fully organised/explained/complete. I do plan on making this repo more organised once I finish university for the year. Feel free to contact me if you need some assistance. email: claude@keaworkshop.com
+I designed this board for myself to use, and decided to put it on github, so I apologise if this repository is not fully organised/explained/complete. I do plan on making this repo more organised once I finish university for the year. Feel free to contact me if you need some assistance. reddit: klouderone, discord: klouder#3331
 
 - **Wired and Wireless** Support with the inclusion of battery pads and battery switch
 - Pro Micro Footprint Daughter Board Support
@@ -34,8 +34,8 @@ https://github.com/foostan/crkbd
 
 - 42x Kailh Choc V1 Hot Swap Sockets
 - 42x Kailh MX Hot Swap Sockets
-- 2x TRRS 3.5mm PJ-320A Audio Jack
-- 50x 1N4148 SOD-123 Diodes (extra for mistakes)
+- 2x TRRS 3.5mm PJ-320A Audio Jack (not needed for wireless build)
+- 42x 1N4148 SOD-123 Diodes
 - 2x 3 Pin Toggle Switch (MSK-12C02 & PCM12SMTR)
 - 2x Tactile Push Button Switch (3x6x4.3mm)
 - 4x Mill-Max Machined 12 Pin Sockets
@@ -50,7 +50,7 @@ https://github.com/foostan/crkbd
 
 The build guide is **similar** to the video linked below, except without the LEDs, and the addition of the battery pads and battery switch.
 
-The batteries are intended to be directly soldered to the board, however you can use a PH2 connector on extension leads and route it to the TRRS socket area if you would like to use a battery with a connector.
+The batteries are intended to be directly soldered to the board, however you can use a PH2 connector on extension leads and route it to the TRRS socket area if you would like to use a battery with a connector. I will change this so that there is also an included connector on the board on the next itteration.
 
 Make sure you are confident will all steps before commencing build as a mistake could result in breaking your microcontroller.
 
