@@ -68,7 +68,7 @@ Due to the new outline of the corne V4, unfortunately all previous cases are inc
 
 In the cases directory, there are options for a fully enclosed case (pictured), or just a bottom plate with open sides. 
 
-Note that due to the placement of the pro micro and TRRS jack, the cases for the v4 on foostans repository are incompatible with this version of the corne v4, as the usb and TRRS jack are blocked by the case as they are specifically placed holes. 
+NOTE: due to the placement of the pro micro and TRRS jack, the cases for the v4 on foostans repository are NOT COMPATIBLE with the Pro Micro Edition of the corne v4, as the usb and TRRS jack are blocked by the case as they are specifically placed holes. 
 
 The pro micro edition cases were designed to be as minimalist as possible, so they do have thin parts. This may cause a problem when ordering through JLC, as they have a minimum reccommended thickness of around 1.25mm. I have never had a problem printing all the files myself. 
 
