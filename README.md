@@ -16,6 +16,8 @@ I designed this board for myself to use, and decided to put it on github, so I a
 
 NOTE: Like all Split Keyboards, NEVER unplug the TRRS interconnect cable while your boards are connected to your computer. 
 
+Please read the entire repo before using anything inside it.
+
 Original Board designed by Foostan, modified By Kea Workshop.
 
 Buy a Kit here https://www.keaworkshop.com/product/corne-v4-pro-micro-edition
