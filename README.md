@@ -4,7 +4,9 @@ This version of the Corne V4 is beginner friendly, adding support of the easier 
 
 The Corne V4 has a completely new board outline compared to the V3 and V2, and all further development for the Corne will be using the V4 outline.
 
-I apologise if this repository is not fully organised/explained/complete, Feel free to contact me if you need some assistance. reddit: klouderone, discord: klouder#3331
+I apologise if this repository is not fully organised/explained/complete.
+
+Please contact me if you find something wrong. reddit: klouderone, discord: klouder#3331, email: claude@keaworkshop.com
 
 - **SMD** & **Through-Hole** diode support
 - **Wired and Wireless** Support with the inclusion of battery pads, battery connector, and battery switch
