@@ -1,6 +1,6 @@
 # Corne V4 Pro-Micro Edition
 
-This version of the Corne V4 is beginner friendly, adding support of the easier to solder through-hole diodes, and brings back the option to make your Corne with whatever microcontroller you want, with the updated V4 layout, which allows wireless support with a Nice!Nano V2, and ultimately save costs when ordering as you DO NOT need PCBA. 
+This version of the Corne V4 is beginner friendly, adding support of the easier to solder through-hole diodes, with included support for wireless builds, and brings back the option to make your Corne with whatever microcontroller you want, with the updated V4 layout, which allows wireless support with a Nice!Nano V2, and ultimately save costs when ordering as you DO NOT need PCBA. 
 
 The Corne V4 has a completely new board outline compared to the V3 and V2, and all further development for the Corne will be using the V4 outline.
 
@@ -89,6 +89,18 @@ The enclosed case with folding tenting leg pockets use the following folding leg
 ## Firmware 
 
 No external firmware is needed, the same firmware found on the VIAL and QMK repos for the Corne V2 will work for this PCB.
+
+## Changelog
+
+### Revision 1 to Revision 2
+- Added support for battery connector
+- Added hole for under-board battery support
+- Moved OLED headers .5mm lower for easier under microcontroller battery routing.
+- Made under microcontroller hole larger
+- Added support for through hole diodes
+- Moved TRRS jack 2mm lower
+- Updated Cases to match revision change
+- Diodes have been relocated
 
 ## Legal
 
