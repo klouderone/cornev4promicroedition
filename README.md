@@ -1,6 +1,6 @@
 # Corne V4 Pro-Micro Edition
 
-This version of the Corne V4 is beginner friendly, and brings back the option to make your Corne with whatever microcontroller you want, which allows wireless support with a Nice!Nano V2, and ultimately save costs when ordering as you DO NOT need PCBA.
+This version of the Corne V4 is beginner friendly, and brings back the option to make your Corne with whatever microcontroller you want, with the updated V4 layout, which allows wireless support with a Nice!Nano V2, and ultimately save costs when ordering as you DO NOT need PCBA. 
 
 The Corne V4 has a completely new board outline compared to the V3 and V2, and all further development for the Corne will be using the V4 outline. This version brings back the Pro Micro footprint so all future cases and development is compatible with a Pro-Micro version PCB.
 
