@@ -44,7 +44,7 @@ https://github.com/foostan/crkbd
 ![Screenshot 2025-02-16 211708](https://github.com/user-attachments/assets/a11322a4-906a-492e-8712-d485264bf1c5)
 
 
-## Build Guide
+## Build 'Guide'
 
 **Required Parts**
 
