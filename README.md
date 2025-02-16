@@ -8,6 +8,8 @@ I apologise if this repository is not fully organised/explained/complete.
 
 Please contact me if you find something wrong. reddit: klouderone, discord: klouder#3331, email: claude@keaworkshop.com
 
+### Features
+
 - **SMD** & **Through-Hole** diode support
 - **Wired and Wireless** Support with the inclusion of battery pads, battery connector, and battery switch
 - Pro Micro Footprint Daughter Board Support
