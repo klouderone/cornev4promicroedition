@@ -64,11 +64,9 @@ The build guide is **similar** to the video linked below, except without the LED
 
 The batteries are intended to be directly soldered to the board, however you can use a PH2 connector on extension leads and route it to the TRRS socket area if you would like to use a battery with a connector. I will change this so that there is also an included connector on the board on the next itteration.
 
-Make sure you are confident will all steps before commencing build as a mistake could result in breaking your microcontroller.
+Make sure you are confident will all steps before commencing build as a mistake could result in breaking your microcontroller. CHECK, CHECK AGAIN, AND THEN CHECK ONCE MORE.
 
 https://www.youtube.com/watch?v=vzDTdLaAzXc
-
-I do plan on making a video on how to build this specific board.
 
 ## Cases
 
@@ -101,6 +99,7 @@ No external firmware is needed, the same firmware found on the VIAL and QMK repo
 - Moved TRRS jack 2mm lower
 - Updated Cases to match revision change
 - Diodes have been relocated
+- Added TPU sound dampener plate
 
 ## Legal
 
