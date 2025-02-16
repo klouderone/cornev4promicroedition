@@ -16,8 +16,10 @@ I designed this board for myself to use, and decided to put it on github, so I a
 - Waffle Pattern PCB
 
 NOTE: Like all Split Keyboards, NEVER unplug the TRRS interconnect cable while your boards are connected to your computer. 
+NOTE: Do not use the TRRS jack when also using a battery. ZMK does not support wired splits.
+NOTE: Do not use a battery when using wired split. QMK does not support wireless, and the battery may cause damage to your microcontroller.
 
-Please read the entire repo before using anything inside it.
+Please read the **entire repo** before using anything inside it.
 
 Original Board designed by Foostan, modified By Kea Workshop.
 
@@ -70,9 +72,9 @@ The enclosed case uses 7mm M2 standoffs, for both the PCB and the oled covers.
 
 Ordering/Printing: Each Case has its own folder, and all parts needed for each case are located in that folder. 
 
-Due to the new outline of the corne V4, unfortunately all previous cases are incompatible.
+Due to the new outline of the corne V4, unfortunately all previous corne version cases are incompatible.
 
-In the cases directory, there are options for a fully enclosed case (pictured), or just a bottom plate with open sides. 
+In the cases directory, there are options for a fully enclosed case, or just a bottom plate with open sides. 
 
 NOTE: due to the placement of the pro micro and TRRS jack, the cases for the v4 on foostans repository are NOT COMPATIBLE with the Pro Micro Edition of the corne v4, as the usb and TRRS jack are blocked by the case as they are specifically placed holes. 
 
@@ -80,14 +82,13 @@ The pro micro edition cases were designed to be as minimalist as possible, so th
 
 The enclosed case with folding tenting leg pockets use the following folding legs. https://www.keaworkshop.com/category/components/product/case-tenting-legs
 
-![image](https://github.com/klouderone/cornev4promicroedition/assets/136342173/bd4037fd-9137-4579-877b-2309add871db)
-Foostan case above, pro micro edition below.
-
-**NOTE**: The Bolt tenting cases are UNTESTED. I personally have not used them, or will never use them, as I use the enclosed folding tenting feet. Use at your own risk. 
-
 ## Firmware 
 
 No external firmware is needed, the same firmware found on the VIAL and QMK repos for the Corne V2 will work for this PCB.
+
+## Legal
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Revision Control
 
