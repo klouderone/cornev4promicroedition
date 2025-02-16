@@ -86,3 +86,7 @@ Foostan case above, pro micro edition below.
 
 No external firmware is needed, the same firmware found on the VIAL and QMK repos for the Corne V2 will work for this PCB.
 
+## Revision Control
+
+Rev 1 - Archived 16/02/2025
+
