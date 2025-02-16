@@ -96,7 +96,7 @@ No external firmware is needed, the same firmware found on the VIAL and QMK repo
 
 ## Changelog
 
-### Revision 1 to Revision 2
+### Revision 1 to Revision 2 - 16/02/25
 - Added support for battery connector
 - Added hole for under-board battery support
 - Moved OLED headers .5mm lower for easier under microcontroller battery routing.
@@ -106,6 +106,7 @@ No external firmware is needed, the same firmware found on the VIAL and QMK repo
 - Updated Cases to match revision change
 - Diodes have been relocated
 - Added TPU sound dampener plate
+- Added Rev 1 to Archive for back support
 
 ## Legal
 
