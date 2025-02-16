@@ -1,18 +1,18 @@
 # Corne V4 Pro-Micro Edition
 
-This version of the Corne V4 is beginner friendly, and brings back the option to make your Corne with whatever microcontroller you want, with the updated V4 layout, which allows wireless support with a Nice!Nano V2, and ultimately save costs when ordering as you DO NOT need PCBA. 
+This version of the Corne V4 is beginner friendly, adding support of the easier to solder through-hole diodes, and brings back the option to make your Corne with whatever microcontroller you want, with the updated V4 layout, which allows wireless support with a Nice!Nano V2, and ultimately save costs when ordering as you DO NOT need PCBA. 
 
 The Corne V4 has a completely new board outline compared to the V3 and V2, and all further development for the Corne will be using the V4 outline.
 
-I designed this board for myself to use, and decided to put it on github, so I apologise if this repository is not fully organised/explained/complete. I do plan on making this repo more organised once I finish university for the year. Feel free to contact me if you need some assistance. reddit: klouderone, discord: klouder#3331
+I apologise if this repository is not fully organised/explained/complete, Feel free to contact me if you need some assistance. reddit: klouderone, discord: klouder#3331
 
-- **Wired and Wireless** Support with the inclusion of battery pads and battery switch
+- **SMD** & **Through-Hole** diode support
+- **Wired and Wireless** Support with the inclusion of battery pads, battery connector, and battery switch
 - Pro Micro Footprint Daughter Board Support
-- **SMD** and **Through-Hole** diode support
-- MX Spaced
-- Hotswap **MX and Choc V1** Support
-- Breakaway 6th column for 5 column builds
-- OLED and Nice!View support
+- **MX** Spaced
+- Hotswap **MX & Choc V1** Support
+- **Breakaway 6th column** for 5 column builds
+- **OLED** & **Nice!View** support
 - Waffle Pattern PCB
 
 NOTE: Like all Split Keyboards, NEVER unplug the TRRS interconnect cable while your boards are connected to your computer. 
@@ -42,18 +42,20 @@ https://github.com/foostan/crkbd
 
 - 42x Kailh Choc V1 Hot Swap Sockets
 - 42x Kailh MX Hot Swap Sockets
-- 2x TRRS 3.5mm PJ-320A Audio Jack (not needed for wireless build)
+- 2x TRRS 3.5mm PJ-320A Audio Jack (if using non-wireless microcontroller)
 - 42x 1N4148 SOD-123 Diodes
-- 2x 3 Pin Toggle Switch (MSK-12C02 & PCM12SMTR)
+- 2x 3 Pin Toggle Switch (MSK-12C02 or PCM12SMTR)
 - 2x Tactile Push Button Switch (3x6x4.3mm)
 - 4x Mill-Max Machined 12 Pin Sockets
-- 48x Mill-Max Machine Pins
+- 48x Mill-Max Machine Pins 
 - 2x PH5 4 Pin Female Box Pin Header (for OLED)
-- 2x Microcontrollers (Pro Micro, Elite-C or Similar OR Nice!Nano V2)
+- 2x PH5 5 Pin Female Box Pin Header (for Nice!View)
+- 2x Microcontrollers (Pro Micro, Elite-C or Similar for wired, OR Nice!Nano V2 or similar for wireless)
 - 2x Displays (.91 Inch OLED or Nice!View) (optional)
 - 42x MX or Choc V1 Switches
 - 42x MX or Choc V1 Keycaps
 - 1x TRRS Male to Male Cable (if using non-wireless microcontroller)
+- 2x Right Angle PH2 Battery Connector (if using a wireless microcontroller like the Nice!Nano V2)
 - 2x Battery (if using a wireless microcontroller like the Nice!Nano V2) 
 
 The build guide is **similar** to the video linked below, except without the LEDs, and the addition of the battery pads and battery switch.
