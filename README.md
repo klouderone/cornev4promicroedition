@@ -16,7 +16,9 @@ I apologise if this repository is not fully organised/explained/complete, Feel f
 - Waffle Pattern PCB
 
 NOTE: Like all Split Keyboards, NEVER unplug the TRRS interconnect cable while your boards are connected to your computer. 
+
 NOTE: Do not use the TRRS jack when also using a battery. ZMK does not support wired splits.
+
 NOTE: Do not use a battery when using wired split. QMK does not support wireless, and the battery may cause damage to your microcontroller.
 
 Please read the **entire repo** before using anything inside it.
