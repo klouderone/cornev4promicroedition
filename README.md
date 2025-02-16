@@ -29,7 +29,10 @@ https://github.com/foostan/crkbd
 
 ![IMG_8871](https://github.com/klouderone/cornev4promicroedition/assets/136342173/901fa39f-69d9-44fd-b6e3-768a6a8b402c)
 
-![image](https://github.com/klouderone/cornev4promicroedition/assets/136342173/598f3457-b834-483d-8778-85fb771b5296)
+![Screenshot 2025-02-16 211724](https://github.com/user-attachments/assets/6ca276f9-5595-478b-88e8-5b989bc66432)
+
+![Screenshot 2025-02-16 211708](https://github.com/user-attachments/assets/a11322a4-906a-492e-8712-d485264bf1c5)
+
 
 ## Build Guide
 
